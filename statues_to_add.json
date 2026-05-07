@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Paul Kruger Statue (Church Square)",
+    "type": "statue",
+    "lat": -25.746,
+    "lng": 28.187,
+    "province": "Gauteng",
+    "year_built": 1899,
+    "description": "Bronze statue of Paul Kruger on a granite plinth, located in Church Square, Pretoria. The statue faces north towards the direction of the Transvaal Republic's capital before British annexation."
+  },
+  {
+    "name": "Queen Victoria Statue (Pietermaritzburg)",
+    "type": "statue",
+    "lat": -29.6006,
+    "lng": 30.3728,
+    "province": "KwaZulu-Natal",
+    "year_built": 1901,
+    "description": "Bronze statue of Queen Victoria on a marble plinth, located outside the Pietermaritzburg City Hall. Erected in 1901 to commemorate the Boer War."
+  },
+  {
+    "name": "Queen Victoria Statue (Port Elizabeth)",
+    "type": "statue",
+    "lat": -33.9618,
+    "lng": 25.6148,
+    "province": "Eastern Cape",
+    "year_built": 1903,
+    "description": "Bronze statue of Queen Victoria in front of the Port Elizabeth City Hall. One of several statues of Queen Victoria erected in South Africa after her death."
+  }
+]

@@ -1,0 +1,154 @@
+{
+  "Cradle of Humankind": {
+    "lat": -26.033,
+    "lng": 27.833,
+    "location": "Muldersdrift",
+    "province": "Gauteng",
+    "type": "monument"
+  },
+  "Robben Island": {
+    "lat": -33.8066,
+    "lng": 18.3662,
+    "location": "Robben Island",
+    "province": "Western Cape",
+    "type": "monument"
+  },
+  "Mapungubwe Cultural Landscape": {
+    "lat": -22.2167,
+    "lng": 29.0667,
+    "location": "Mapungubwe",
+    "province": "Limpopo",
+    "type": "monument"
+  },
+  "Voortrekker Monument": {
+    "lat": -25.8205,
+    "lng": 28.0132,
+    "location": "Pretoria",
+    "province": "Gauteng",
+    "type": "monument"
+  },
+  "Charlotte Maxeke": null,
+  "Lilian Ngoyi": null,
+  "Helen Joseph": null,
+  "Rahima Moosa": null,
+  "Taung Fossil Site": {
+    "lat": -27.5333,
+    "lng": 24.5333,
+    "location": "Taung",
+    "province": "North West",
+    "type": "monument"
+  },
+  "West Coast Fossil Park": {
+    "lat": -32.9667,
+    "lng": 18.1333,
+    "location": "Langebaan",
+    "province": "Western Cape",
+    "type": "monument"
+  },
+  "Klasies River Cave": {
+    "lat": -34.0333,
+    "lng": 24.3833,
+    "location": "Klasies",
+    "province": "Eastern Cape",
+    "type": "monument"
+  },
+  "Kaditshwene Cultural Landscape": {
+    "lat": -25.85,
+    "lng": 26.0167,
+    "location": "Zeerust",
+    "province": "North West",
+    "type": "monument"
+  },
+  "Makapans Valley": {
+    "lat": -24.2167,
+    "lng": 29.2833,
+    "location": "Mokopane",
+    "province": "Limpopo",
+    "type": "monument"
+  },
+  "Bushmanskloof Rock Painting Landscape": {
+    "lat": -32.8,
+    "lng": 19.1667,
+    "location": "Cederberg",
+    "province": "Western Cape",
+    "type": "monument"
+  },
+  "Dal Josafat": null,
+  "SS Mendi Memorial": {
+    "lat": -33.9065,
+    "lng": 18.4275,
+    "location": "Cape Town",
+    "province": "Western Cape",
+    "type": "monument"
+  },
+  "Fish Traps": {
+    "lat": -33.307,
+    "lng": 26.527,
+    "location": "Makhanda",
+    "province": "Eastern Cape",
+    "type": "monument"
+  },
+  "South African Astronomical Observatory": {
+    "lat": -33.9368,
+    "lng": 18.4683,
+    "location": "Cape Town",
+    "province": "Western Cape",
+    "type": "building"
+  },
+  "Walter Sisulu Square": {
+    "lat": -26.1786,
+    "lng": 27.9886,
+    "location": "Soweto",
+    "province": "Gauteng",
+    "type": "monument"
+  },
+  "Sibhudu Cave": {
+    "lat": -29.2333,
+    "lng": 31.0833,
+    "location": "KwaZulu-Natal",
+    "province": "KwaZulu-Natal",
+    "type": "monument"
+  },
+  "Owl House and Camel Yard": {
+    "lat": -31.3819,
+    "lng": 25.0267,
+    "location": "Nieu-Bethesda",
+    "province": "Eastern Cape",
+    "type": "building"
+  },
+  "Sharpeville Massacre": {
+    "lat": -26.6678,
+    "lng": 27.8703,
+    "location": "Sharpeville",
+    "province": "Gauteng",
+    "type": "monument"
+  },
+  "Freedom Square": {
+    "lat": -26.1786,
+    "lng": 27.9886,
+    "location": "Soweto",
+    "province": "Gauteng",
+    "type": "monument"
+  },
+  "Stone Wall": {
+    "lat": -33.307,
+    "lng": 26.527,
+    "location": "Makhanda",
+    "province": "Eastern Cape",
+    "type": "monument"
+  },
+  "Chief Tyali Grave": {
+    "lat": -33.1333,
+    "lng": 26.7333,
+    "location": "Grahamstown",
+    "province": "Eastern Cape",
+    "type": "monument"
+  },
+  "Lake Fundudzi": {
+    "lat": -22.8333,
+    "lng": 30.2833,
+    "location": "Limpopo",
+    "province": "Limpopo",
+    "type": "monument"
+  }
+}
